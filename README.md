@@ -47,6 +47,9 @@ https://ithelp.ithome.com.tw/articles/10216290
 * MySQL語法彙整
 http://note.drx.tw/2012/12/mysql-syntax.html
 
+* Python Web Flask — Flask-Login登入系統實作
+https://medium.com/seaniap/python-web-flask-flask-login%E7%99%BB%E5%85%A5%E7%B3%BB%E7%B5%B1%E5%AF%A6%E4%BD%9C-51c5ffda7924
+
 * [Flask教學] Flask-SQLAlchemy 資料庫操作-ORM篇(二)
 https://www.maxlist.xyz/2019/10/30/flask-sqlalchemy/
 
